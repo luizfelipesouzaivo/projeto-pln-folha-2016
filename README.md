@@ -24,7 +24,7 @@ O notebook foi desenvolvido e executado no **Google Colab**, e está estruturado
 7. 🔍 **Análise de Entidades Nomeadas (NER)** com SpaCy  
 8. 📊 **Visualização e interpretação** dos tópicos, tokens e entidades
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Google Colab (ambiente online)
 - Python 
